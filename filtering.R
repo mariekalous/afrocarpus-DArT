@@ -1,5 +1,5 @@
 ## Working on the DArT data
-## the SNP data file
+
 ## Reading DArT Files into a genlight Object using read.dart()
 
 ### first, install the dartR package
